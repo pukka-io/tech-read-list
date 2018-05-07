@@ -34,3 +34,7 @@ Does my model reference infrastructure that is not my database (such as mail)? Y
 - [Don't Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 
 - Good coders code, great coders reuse.
+
+- [Make It Work Make It Right Make It Fast](http://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast)
+
+- Software, at the micro-level, challenges the common belief, "If you can't do it right the first time, when will you have time to do it over?" Experimentation is needed to determine what is "right" whether one does the experimentation in one's mind or by trying different versions of the code. It usually takes longer to get that mental model right and only have to type the code in once, then to try a version of the code and do it over as needed. -- WayneMack
